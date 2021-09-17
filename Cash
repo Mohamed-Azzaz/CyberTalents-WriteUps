@@ -1,0 +1,11 @@
+Challenge Name:  Cash
+
+Challenge Description:
+I am a type of attacks that used to spread malware. I push data in the cache records of your DNS. I am cache ........?
+
+
+Answer:
+Poisoning 
+
+Notes:
+https://owasp.org/www-community/attacks/Cache_Poisoning
