@@ -1,0 +1,11 @@
+Challenge Name:  Robot
+
+Challenge Description:
+A group or network of machines that are controlled by an attacker to do a certain task
+
+
+Answer:
+bot
+
+Notes:
+https://www.cloudflare.com/learning/bots/what-is-a-bot/ 
