@@ -1,0 +1,11 @@
+Challenge Name:  Intercept 
+
+Challenge Description:
+the attacker intercept information between receiver and sender. what is the attack name ?
+
+
+Answer:
+MITM 
+
+Notes:
+https://en.wikipedia.org/wiki/Man-in-the-middle_attack
