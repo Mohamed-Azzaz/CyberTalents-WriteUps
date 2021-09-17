@@ -1,0 +1,11 @@
+Challenge Name:  Crash 
+
+Challenge Description:
+enter a lot of random trash till the application crash
+
+
+Answer:
+fuzzing 
+
+Notes:
+https://www.centextech.com/blog/post/what-is-a-fuzzing-attack
