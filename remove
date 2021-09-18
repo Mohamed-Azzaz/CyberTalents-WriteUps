@@ -1,0 +1,12 @@
+
+Challenge Name:  remove
+
+Challenge Description:
+I need to remove a file called secret in my home directory. which command should i use 
+
+
+Answer:
+rm ~/secret 
+
+Notes:
+https://phoenixnap.com/kb/linux-commands-cheat-sheet
